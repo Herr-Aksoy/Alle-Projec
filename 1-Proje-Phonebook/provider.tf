@@ -13,10 +13,10 @@ terraform {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key  = "AKIA27YNSBY5HIQIFVDR"
-  secret_key = "E2QAxi736hdmqnF7+jnIHVDDlefoytE3I4dZM6YB"
+  access_key  = "example"
+  secret_key = "example"
 }
 
 provider "github" {
-  token = "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"
+  token = "example"
 }
